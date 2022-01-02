@@ -1,5 +1,4 @@
 # Secret-Key-Encryption-Lab
-# Secret-Key-Encryption
 |  Name   | Title |
 | ------------- | ------------- |
 | Muhammad Sohail| Secret-Key-Encryption Lab  |
